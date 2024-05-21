@@ -1,11 +1,11 @@
-# BOT GRASS AUTO FARMING
+# INGPO ORANG DALEM
 
 # Register
-- https://app.getgrass.io/register/?referralCode=AYtNN0N1D0pzSCc
+- https://app.getgrass.io/
 
 # Command
-- git clone https://github.com/AirDropFamilyIDN/GrassAutoFarming.git
-- cd GrassAutoFarming
+- git clone https://github.com/Kadafimuamar/grass2mantab.git
+- cd grass2mantab
 - pip install -r requirements.txt
 - python run_http.py
 - python run_socks4.py
